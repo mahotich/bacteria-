@@ -1,0 +1,1 @@
+export const MUST_BUCTERY = "Введите больше бактерий, БЫСТРО! ВаСя"
